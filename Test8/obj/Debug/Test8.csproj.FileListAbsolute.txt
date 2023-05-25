@@ -1,0 +1,14 @@
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.csproj.AssemblyReference.cache
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.Forms.Form1.resources
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.Properties.Resources.resources
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.csproj.GenerateResource.cache
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.csproj.CoreCompileInputs.cache
+C:\Users\Y\Desktop\VS\Test8\Test8\bin\Debug\Test8.exe.config
+C:\Users\Y\Desktop\VS\Test8\Test8\bin\Debug\Test8.exe
+C:\Users\Y\Desktop\VS\Test8\Test8\bin\Debug\Test8.pdb
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.exe
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.pdb
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.Forms.Menu.resources
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.Forms.Shop.resources
+C:\Users\Y\Desktop\VS\Test8\Test8\obj\Debug\Test8.Forms.Avtorize.resources
